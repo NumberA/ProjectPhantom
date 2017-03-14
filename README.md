@@ -1,2 +1,2 @@
 # ProjectPhantom
-Another Claymore game project that may-or-may-not happen
+A fan-made Claymore RPG based on Miria in Pieta
